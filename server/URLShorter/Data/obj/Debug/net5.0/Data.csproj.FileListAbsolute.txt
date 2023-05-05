@@ -1,0 +1,12 @@
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\bin\Debug\net5.0\Data.deps.json
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\bin\Debug\net5.0\Data.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\bin\Debug\net5.0\ref\Data.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\bin\Debug\net5.0\Data.pdb
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\obj\Debug\net5.0\Data.csproj.AssemblyReference.cache
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\obj\Debug\net5.0\Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\obj\Debug\net5.0\Data.AssemblyInfoInputs.cache
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\obj\Debug\net5.0\Data.AssemblyInfo.cs
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\obj\Debug\net5.0\Data.csproj.CoreCompileInputs.cache
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\obj\Debug\net5.0\Data.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\obj\Debug\net5.0\ref\Data.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Data\obj\Debug\net5.0\Data.pdb

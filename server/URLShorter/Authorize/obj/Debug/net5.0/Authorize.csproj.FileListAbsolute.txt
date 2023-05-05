@@ -1,0 +1,17 @@
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\bin\Debug\net5.0\Authorize.deps.json
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\bin\Debug\net5.0\Authorize.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\bin\Debug\net5.0\ref\Authorize.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\bin\Debug\net5.0\Authorize.pdb
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\obj\Debug\net5.0\Authorize.csproj.AssemblyReference.cache
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\obj\Debug\net5.0\Authorize.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\obj\Debug\net5.0\Authorize.AssemblyInfoInputs.cache
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\obj\Debug\net5.0\Authorize.AssemblyInfo.cs
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\obj\Debug\net5.0\Authorize.csproj.CoreCompileInputs.cache
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\obj\Debug\net5.0\Authorize.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\obj\Debug\net5.0\ref\Authorize.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\obj\Debug\net5.0\Authorize.pdb
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\bin\Debug\net5.0\Data.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\bin\Debug\net5.0\Data.pdb
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\obj\Debug\net5.0\Authorize.csproj.CopyComplete
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\bin\Debug\net5.0\Logic.dll
+C:\Users\kolos\OneDrive\Рабочий стол\Inforce\server\URLShorter\Authorize\bin\Debug\net5.0\Logic.pdb

@@ -1,0 +1,38 @@
+.title {
+    margin-bottom: 20px;
+}
+
+.counter {
+    margin: 20px 0;
+}
+
+.counter span {
+    color: red;
+}
+
+.information {
+    margin-top: 20px;
+}
+
+.item{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 10px 0;
+    max-width: 800px;
+}
+
+.item span {
+    display: inline;
+    margin-right: 10px;
+	white-space: nowrap;
+}
+
+.item span:first-child{
+    font-weight: 600;
+}
+
+.item span:last-child{
+    text-overflow: ellipsis;
+    overflow: hidden;
+}

@@ -1,0 +1,16 @@
+.button {
+    background: rgb(39, 158, 255);
+    width: 100%;
+    height: 35px;
+    border-radius: 5px;
+    color: white;
+}
+
+.button:hover {
+    opacity: .8;
+}
+
+.button:disabled {
+    background: #bbb;
+    color: #666;
+}

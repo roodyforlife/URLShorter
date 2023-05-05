@@ -1,0 +1,11 @@
+.content {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.error div{
+    font-weight: 700;
+    text-align: center;
+    margin-bottom: 10px;
+}

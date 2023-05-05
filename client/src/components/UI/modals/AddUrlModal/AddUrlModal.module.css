@@ -1,0 +1,38 @@
+.content {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100vw;
+    height: 100vh;
+    background: rgba(0, 0, 0, 0.4);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    z-index: 1001;
+}
+
+.modal{
+    background: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+
+.title {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.close {
+    color: #555;
+    font-size: 28px;
+    font-weight: bold;
+    cursor: pointer;
+    margin-left: 20px;
+    transition: all 0.1s;
+  }
+
+.close:hover {
+    color: #aaa;
+  }
